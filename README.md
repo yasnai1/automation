@@ -1,3 +1,11 @@
+<div style="display: flex; justify-content: center; gap: 15px;">
+  <img src="https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4" width="200">
+  <img src="https://github.com/user-attachments/assets/63034a5e-1879-4c71-ad4f-1507cc0b6c9a" width="200">
+  <img src="https://github.com/user-attachments/assets/307c0840-0e0d-4576-8e0e-e8764bc50304" width="200">
+  <img src="https://github.com/user-attachments/assets/bd55efb3-9cb2-4c58-bc08-eb2acfd6a30a" width="200">
+</div>
+
+
 # Automation with CloudFormation
 
 ## Overview
